@@ -1,7 +1,7 @@
 package com.example.raouf.testwifi3;
 
 /**
- * Created by Raouf on 15/03/2017.
+ * Created by Raouf et Oussama on 15/03/2017.
  */
 import org.alljoyn.bus.BusException;
 import org.alljoyn.bus.annotation.BusInterface;
